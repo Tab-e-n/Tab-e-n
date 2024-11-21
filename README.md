@@ -2,7 +2,7 @@
 
 I am a young game developer who makes short, gameplay-focused games. Here on Github you can find the source code for some of my games.
 
-You can find all my released games on my [itch page](https://howdoesonename.itch.io/sonic-runner).
+You can find all my released games on my [itch page](https://howdoesonename.itch.io).
 
 ### What I know
 
