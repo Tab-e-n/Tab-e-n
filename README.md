@@ -1,16 +1,15 @@
-### Hi there 👋
+### Heya 👋
 
-<!--
-**Tab-e-n/Tab-e-n** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am a young game developer who makes short, gameplay-focused games.
+Here on Github you can find source code for some of my games.
+You can find all my released games on my [itch page](https://howdoesonename.itch.io/sonic-runner).
 
-Here are some ideas to get you started:
+## What I know
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+As of 2024, I have been using Godot game engine for 4 years. Most of my games are made in Godot.
+I have been learning C, C++, C# in school, and have been trying out Raylib in my free time.
+
+## What I am up to
+
+Currently, i am trying to finish a lot of my projects so i can move on and make new ones.
+Unfortunately, i am doing a bad job :P
