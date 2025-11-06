@@ -1,4 +1,4 @@
-### Heya!
+### Hiya!
 
 I am a game developer who makes short, gameplay-focused games.
 Here on Github you can find the source codes of some of my games,
