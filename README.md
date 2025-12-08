@@ -1,6 +1,6 @@
 ### Hiya!
 
-I am a game developer who makes short, gameplay-focused games.
+I am a game developer who makes somewhat short, gameplay-focused games.
 Here on Github you can find the source codes of some of my games,
 where i felt showing it was warranted.
 
