@@ -2,7 +2,7 @@
 
 I am a game developer who makes somewhat short, gameplay-focused games.
 Here on Github you can find the source codes of some of my games,
-where i felt showing it was warranted.
+where I felt showing it was warranted.
 
 You can find all my released games on my [itch page](https://howdoesonename.itch.io).
 
@@ -15,4 +15,4 @@ I have experience using C and Python.
 
 ### What I am up to
 
-Studying... and Silksong...
+Studying... mostly...
